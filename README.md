@@ -12,7 +12,7 @@ To begin you'll want to clone down both this Backend repository and the Frontend
 3. Run 'rails s' to get the server started
 4. A localhost tab should open in your browser explore it to see the json data from our database
 5. With the backend up and running you'll be able to make fetch request to it from the front end.
-* Fetch from here 'http://localhost:3000/api/v1/decks/new' to create a new deck (POST)
+* Fetch from here `http://localhost:3000/api/v1/decks/new` to create a new deck (POST)
 * Fetch from here `http://localhost:3000/api/v1/decks/:id` to show a deck (GET request)
 * Fetch from here `http://localhost:3000/api/v1/decks/:id/deal` to update a deck (PUT request)
 
